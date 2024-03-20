@@ -8,13 +8,13 @@ An HTML document is built using a specific structure that separates content and 
 * Specifies the document type (usually HTML5).
 * Example: `<!DOCTYPE html>`
 
-**2. Root Element (<html>)**
+**2. Root Element `(<html>)`**
 
 * Encloses the entire HTML document.
 * Acts as the container for all other elements.
 * Optional `lang` attribute specifies the document's language.
 
-**3. Head (<head>)**
+**3. Head `(<head>)`**
 
 * Contains meta information about the document, not directly visible on the webpage.
 * Important elements within `<head>` include:
@@ -23,7 +23,7 @@ An HTML document is built using a specific structure that separates content and 
     * **Links** - Reference external resources like stylesheets (`<link rel="stylesheet" href="style.css">`) or favicons (`<link rel="icon" href="favicon.ico">`).
     * **Scripts** - Embed JavaScript code for dynamic behavior (`<script src="script.js"></script>`).
 
-**4. Body (<body>)**
+**4. Body `(<body>)`**
 
 * Contains the content displayed on the webpage.
 * All visible elements like headings, paragraphs, images, lists, forms, etc., reside here.
