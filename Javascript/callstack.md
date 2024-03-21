@@ -1,4 +1,4 @@
-**The Call Stack: Orchestrating Function Execution in JavaScript**
+## **The Call Stack: Orchestrating Function Execution in JavaScript**
 
 The Call Stack is a fundamental concept in JavaScript's execution model. It acts as a vital data structure, following the Last-In-First-Out (LIFO) principle, to manage function calls and their execution order.
 
